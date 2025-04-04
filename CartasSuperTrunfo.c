@@ -6,9 +6,8 @@
 // Siga os comentários para implementar cada parte do desafio.
 //Teste larissa
 
-int main() {
-    printf ( "Desafio Super Tunfo!/n");
-    
+int main(){
+    printf ("Desafio Super Trunfo!/n");
 
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
@@ -22,5 +21,4 @@ int main() {
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
-    return 0;
-}
+    "return0";
